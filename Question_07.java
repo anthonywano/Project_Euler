@@ -1,5 +1,5 @@
 
-public class Question_7 {
+public class Question_07 {
 	public static void main(String args[]) {
 
 		int num_primes = 0;

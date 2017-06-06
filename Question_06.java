@@ -1,5 +1,5 @@
 
-public class Question_6 {
+public class Question_06 {
 	public static void main(String args[])
 	{
 		int sum_square = 0;

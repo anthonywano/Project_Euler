@@ -1,10 +1,10 @@
 
-public class Question_3 {
+public class Question_03 {
 
 	public static void main(String args[])
 	{
 		long my_num = 13195;
-		double test_num = 13195;
+		//double test_num = 13195;
 		
 		int [] primes = new int[100];
 		boolean isPrime;

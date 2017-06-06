@@ -1,12 +1,12 @@
 
-public class Question_1 {
+public class Question_01 {
 
 	public static void main(String args[])
 	{
 		
 		int max = 1000;
 		int sum = 0;
-		int count = 1;
+		//int count = 1;
 		
 		int [] three_times = new int[max];
 		int [] five_times = new int[max];
